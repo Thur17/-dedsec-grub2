@@ -1,3 +1,7 @@
+<div align="center">
+<h1> Autor 
+<h1>https://github.com/VandalByte
+
 <p align="center">
   <img width=90% src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/banner.png" alt="banner" />
 </p>
@@ -182,4 +186,3 @@ sudo python3 dedsec-theme.py --uninstall
   <img width="48%" src="https://raw.githubusercontent.com/VandalByte/dedsec-grub2-theme/main/media/previews/preview-legion.png" />
   <br>
   <b>💀 Legion</b>
-</p>
