@@ -19,7 +19,7 @@
 ### ✔️ Installation
 
 ```shell
-git clone --depth 1 https://github.com/VandalByte/dedsec-grub2-theme.git && cd dedsec-grub2-theme
+git clone --depth 1 https://github.com/Thur17/dedsec-grub2.git && cd dedsec-grub2-theme
 sudo python3 dedsec-theme.py --install
 ```
 
